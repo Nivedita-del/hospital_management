@@ -1,0 +1,13 @@
+ Name  Shobha
+ age  20
+ parent's name  Raju
+ disease  fever
+ visiting date  31/5/2019
+ address  #123,R.R.Nagar,Bangalore-98 
+   
+Name  Raji
+ age  19
+ parent's name  Sharadha
+ disease  cough
+ visiting date  31/5/2019
+ address  #123,R.R.Nagar,Bangalore-98

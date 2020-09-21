@@ -1,0 +1,16 @@
+ Name  Nivedita.M
+ age  19
+ parent's name  Madhava
+ disease  cough
+ visiting date  30/5/2019
+ address  #215,first floor mahaveer cornet apt,Kengeri Satellite town Bangalore-60
+    
+ Name  Anjana
+ age  20
+ parent's name  Preetha
+ disease  fever
+ visiting date  30/5/2019
+ address  #215,first floor mahaveer cornet apt, Kengeri satellite town, Bangalore-60
+   
+ visiting date  1/6/2019
+ disease  nausea
